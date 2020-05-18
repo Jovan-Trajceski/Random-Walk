@@ -1,5 +1,5 @@
 # Random Walk - Monte Carlo Simulation
-Introduction
+Introduction:
 > Classic random walk problem was solved by using Monte Carlo simulation.\
 Visualizations of random walk processes and results are provided below.\
 Probability rate of winning is also provided.\
