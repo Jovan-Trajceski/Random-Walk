@@ -10,3 +10,6 @@ The code runs 10,000 simulations.
 You can download the presentation deck by clicking [here.](Presentation/Random%20Walk.pdf)
 
 # Outcome
+![](img/1.png)
+
+![](img/2.png)
