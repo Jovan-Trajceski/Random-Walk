@@ -8,4 +8,4 @@ The code runs 10,000 simulations.
 
 
 # Presentation
-You can download the presentation deck by clicking [here.](Presentation/Summer%20Olympics_compressed.pdf)
+You can download the presentation deck by clicking [here.](Presentation/Random%20Walk.pdf)
